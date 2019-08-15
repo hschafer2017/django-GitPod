@@ -25,7 +25,7 @@ SECRET_KEY = 'd2%x9@)ti$afc)d632op7ti!c@m+09!+4#o=hwj0$v4e9s@e7y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost', 'django-gitpod-test.herokuapp.com']
 
 
 # Application definition
